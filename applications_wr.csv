@@ -1,0 +1,12 @@
+name,family_children,privileges
+22th,2,ORPHAN
+12th,1,ORPHAN
+18th,1,ORPHAN
+13th,1,MILITARY
+16th,1,MILITARY
+23th,1,MILITARY
+14th,3,MANY_CHILDREN
+25th,3,MANY_CHILDREN
+15th,2,
+26th,2,
+11th,1,

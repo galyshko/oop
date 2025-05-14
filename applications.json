@@ -1,0 +1,38 @@
+[
+    {
+        "name": "21th",
+        "family_children": 5,
+        "privileges": [ "MANY_CHILDREN"]
+    },
+    {
+        "name": "22th",
+        "family_children": 2,
+        "privileges": [
+            "ORPHAN"
+        ]
+    },
+    {
+        "name": "23th",
+        "family_children": 1,
+        "privileges": [
+            "MILITARY"
+        ]
+    },
+    {
+        "name": "24th",
+        "family_children": 4,
+        "privileges": [
+            "MANY_CHILDREN","MILITARY"
+        ]
+    },
+    {
+        "name": "25th",
+        "family_children": 3,
+        "privileges": [ "MANY_CHILDREN"]
+    },
+    {
+        "name": "26th",
+        "family_children": 2,
+        "privileges": []
+    }
+]

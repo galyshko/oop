@@ -1,0 +1,60 @@
+[
+    {
+        "name": "24th",
+        "family_children": 4,
+        "privileges": [
+            "MANY_CHILDREN",
+            "MILITARY"
+        ]
+    },
+    {
+        "name": "5th",
+        "family_children": 1,
+        "privileges": [
+            "ORPHAN"
+        ]
+    },
+    {
+        "name": "2nd",
+        "family_children": 1,
+        "privileges": [
+            "MILITARY"
+        ]
+    },
+    {
+        "name": "17th",
+        "family_children": 5,
+        "privileges": [
+            "MANY_CHILDREN"
+        ]
+    },
+    {
+        "name": "21th",
+        "family_children": 5,
+        "privileges": [
+            "MANY_CHILDREN"
+        ]
+    },
+    {
+        "name": "1st",
+        "family_children": 2,
+        "privileges": [
+            "MANY_CHILDREN"
+        ]
+    },
+    {
+        "name": "3th",
+        "family_children": 2,
+        "privileges": []
+    },
+    {
+        "name": "4th",
+        "family_children": 1,
+        "privileges": []
+    },
+    {
+        "name": "7th",
+        "family_children": 3,
+        "privileges": []
+    }
+]
